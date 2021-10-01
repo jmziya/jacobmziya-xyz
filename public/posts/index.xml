@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Sep 2021 17:04:05 +0200</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jacob&#39;s Resume</title>
+      <link>http://example.org/posts/jacobs-resume/</link>
+      <pubDate>Thu, 30 Sep 2021 17:04:05 +0200</pubDate>
+      
+      <guid>http://example.org/posts/jacobs-resume/</guid>
+      <description>Currently Digital Solutions Developer with Compelling.Works
+Specialized in Software Design &amp;amp; Web Development, &amp;amp; Software Project Management
+Research interests Smart Home, Personal Digital Assistant for everything
+Education 2021 - 2022 DMI - St. Eugene University, Lusaka, Zambia
+ Master of Science in Computer Science  2011 - 2015 DMI - St. John the Baptist, Mangochi, Malawi
+ Bachelor of Science in Information Systems  2004 - 2008 St. John&amp;rsquo;s Catholic Secondary School, Lilongwe, Malawi</description>
+    </item>
+    
+  </channel>
+</rss>
