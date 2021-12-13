@@ -7,7 +7,7 @@ draft: true
 
 ## Currently
 
-Head of Digital Technologies @ [Compelling Works Limited](https://compelling.works)
+Head of Digital Technologies Consultant @ [Compelling Works Limited](https://compelling.works)
 
 Head of Business Development @ [FirstNet ICT Systems Limited](https://firstnet.africa)
 
@@ -22,14 +22,25 @@ Head of Business Development @ [FirstNet ICT Systems Limited](https://firstnet.a
 
 ### Research Interests
 
-Smart Home, Personal Digital Assistant
+Smart Home, Personal Digital Assistant, eCommerce for developing countries
 
 ### Top Skills
 
-Software Development (Ruby, JavaScript, Vue)
+Software Development (Ruby, JavaScript)
 
+## Consultant Experience
 
-## Profession
+`2019 - 2021`
+__DP - Development Pathways Limited__, Lilongwe, Malawi
+
+- MIS Developer Consultant
+
+`2019 - 2019`
+__ActionAid Malawi__, Lilongwe, Malawi
+
+- Software Developer Consultant
+
+## Professional Experience
 
 `2020 - 2021`
 __EGPAF - Elizabeth Glaser Pediatric AIDS Foundation__, Lilongwe, Malawi
